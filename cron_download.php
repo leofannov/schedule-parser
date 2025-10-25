@@ -3,7 +3,7 @@ require 'vendor/autoload.php';
 require 'schedule_parser.php';
 
 // Конфигурация
-$excelUrl = 'http://spospk.ru/document/rasp/rasp.xlsx';
+$excelUrl = 'YOU_URL';
 $cacheFile = 'cache/schedule.xlsx';
 $scheduleCacheFile = 'cache/schedule_data.cache';
 
